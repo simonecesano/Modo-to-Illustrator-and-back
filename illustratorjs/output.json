@@ -1,0 +1,108 @@
+// example JSON file for output of colors from selection
+// re-formatted for readability
+// every single page item with a spot color is output
+// duplication is intentional: different colors under a key mean somebody
+// messed around with the part
+// color names from the FW13 all open color palette
+// no other re-work
+{
+  "7930 Outsole logo adidas (2)": [
+    "university red  31F0",
+    "university red  31F0"
+  ],
+  "7930 Outsole color 02 (2)": [
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A",
+    "black  095A"
+  ],
+  "7710 Midsole color 02 (2)": [
+    "running white  076A",
+    "running white  076A"
+  ],
+  "7710 Midsole color 01 (2)": [
+    "Grey RockS12 A535",
+    "Grey RockS12 A535"
+  ],
+  "7710 Midsole AD (2)": [
+    "Hero InkF13  A6EY",
+    "Hero InkF13  A6EY"
+  ],
+  "45 Toe Cap (2)": [
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A"
+  ],
+  "420 Vamp Quarter (3)": [
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0"
+  ],
+  "420 Vamp (3)": [
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0"
+  ],
+  "3385 Tongue (3)": [
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0",
+    "university red  31F0"
+  ],
+  "1070 Quarter Overlay Laterial (2)": [
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A",
+    "running white  076A"
+  ],
+  "1060 3strip (2)": [
+    "Sub BlueS13  A62K",
+    "Sub BlueS13  A62K",
+    "Sub BlueS13  A62K",
+    "Sub BlueS13  A62K",
+    "Sub BlueS13  A62K",
+    "Sub BlueS13  A62K"
+  ]
+}
+
